@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Sunny Pan
 
-<!--
-**pan-sunny/pan-sunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a **Data Analyst** with a strong foundation in **data analysis, data modeling, machine learning**, and **database design**. I bring experience from both corporate and independent projects, using tools like **Python, R, SQL**, and **Power BI** to extract meaningful insights from data and drive decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Languages**: Python, R, Java, C/C++, VBA, SQL, Shell Script
+- **Database**: MySQL, SQL Server, Oracle, Sybase, MS Access, PostgreSQL
+- **Visualization**: Power BI, Tableau
+- **Others**: Git, Jupyter Notebooks, RStudio
+
+---
+
+## 📚 Learning & Certifications
+
+- **Data Science Specialization** – Johns Hopkins University (Coursera)
+- **Foundations of Data Science with R** – Johns Hopkins University
+- **Bachelor of Electronics Engineering** – Jinan University
+- **Systems Analysis and Design** – BCIT
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: [p.sunny@hotmail.com]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sunny-p-43b1a9107/)
+
+---
+

@@ -13,6 +13,20 @@ Welcome to my GitHub! I'm a **Data Analyst** with a strong foundation in **data 
 
 ---
 
+## 📊 Data Analyst Projects
+Focused on data cleaning, exploratory analysis, and reporting using Python, R, and SQL.
+🔗 [View Repo »](https://github.com/pan-sunny/data-analyst-portfolio)
+
+## 📈 Power BI Dashboards
+Interactive dashboards and business insights built using Power BI and Tableau.
+🔗 [View Repo »](https://github.com/pan-sunny/power-bi-portfolio)
+
+## 🤖 Data Science Projects
+Applied machine learning, predictive modeling, and NLP projects using Python and R.
+🔗 [View Repo »](https://github.com/pan-sunny/data-science-projects)
+
+---
+
 ## 📚 Learning & Certifications
 
 - **Data Science Specialization** – Johns Hopkins University (Coursera)

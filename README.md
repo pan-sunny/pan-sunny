@@ -39,7 +39,7 @@ Applied machine learning, predictive modeling, and NLP projects using Python and
 ## 📫 Let's Connect!
 
 - 📧 Email: [p.sunny@hotmail.com]
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sunny-p-43b1a9107/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pan-sunny)
 
 ---
 

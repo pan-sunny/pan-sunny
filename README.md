@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Sunny Pan
-
+**Data Analytics · Database Management · IT**
 I'm a technology professional with a background in **database administration, system analysis, data integration**, and **data analytics**. I have experience with **SQL, Python, R, Power BI, Tableau**, and various database technologies. My interests include data analytics, business intelligence, database management, data science, and software development. I enjoy solving technical problems, exploring data, building practical solutions, and continuously learning new technologies. This portfolio showcases my technical projects, analytical work, and ongoing professional development.
 
 ---
